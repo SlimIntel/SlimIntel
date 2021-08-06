@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @SlimIntel
-- 👀 I’m interested in Making bots
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on nothing lol
-- 📫 How to reach me - just dm me on Gamerlaza#2000
-
-<!---
-HELLO EVERYONE FIRST TIME USINF GITHUB :)
---->
+- 👋 Hi, I’m Gamerlaza aka Rudra!
+- 👀 I’m Like to make bots!
+- 🌱 I’m currently learning JavaScript and Python
+- 💞️ I’m looking to collaborate With Some Bot Developers
+- 📫 How to reach me - just dm me on Gamerlaza#6969
+- i made Developer of 4 bots if u want to add them dm me! 
