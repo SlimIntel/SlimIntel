@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rudra Upadhyay
+- 👀 I’m interested in Coding, Developing Discord bots
+- 🌱 I’m currently learning HTML
+- 💞️ I’m looking to collaborate on Nothing for now
+- 📫 How to reach me Dm me - Gamerlaza | 🍋 Lime Cult#6969
